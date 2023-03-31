@@ -6,6 +6,6 @@
 
 - 📫Send me a message on Telegram @monkrus
 - :blue_book: Follow me on https://medium.com/@sergeisqa
-- :collision: Languages: English, Russian, Spanish, Estonian 
+- :collision: Languages: English, Russian, Spanish, Estonian, Swedish 
 - ⚡ Fun fact: Hiked Grand Canyon South Rim to North and Back, 42 miles (68 km) in 27 hours
 
