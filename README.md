@@ -9,5 +9,5 @@
 - 👁️‍🗨️ More conversational chatbots [here](https://github.com/monkrus/ConvoBots/edit/main/README.md)
 - 📫Send me a message on Telegram @monkrus
 - ⚛️Languages: English, Russian, Spanish, Estonian, Swedish 
-- ⚡Fun fact: Hiked Grand Canyon South Rim to North and Back, 42 miles (68 km) in 27 hours, with no sleep
+- ⚡Fun fact: Hiked Grand Canyon South Rim to North and Back, 42 miles (68 km) in 27 hours, no sleep
 
