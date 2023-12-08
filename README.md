@@ -6,7 +6,7 @@
 - 🤖[CareeCraftBot](https://poe.com/CareerCraftBot) or [CareeCraftBotPro](https://poe.com/CareerCraftBotPro) are polishing up your resume to perfectly fit each new job opportunity
 - 🍫[AliceNY](https://poe.com/AliceNY) or [AliceNYPlus](https://poe.com/AlyceNYPlus) are your your friendly NYC neighbors to chat with.
 - 🏺[NefertariEgypt](https://poe.com/NefertariEgypt) or [NefertariRoyalEgypt](https://poe.com/NefertariRoyalEgypt) Imagine talking to someone living during the rule of Ramses II... 
-- 👁️‍🗨️ ... even more convobots [here](https://github.com/monkrus/ConvoBots)
+- 👁️‍🗨️ more convobots [here](https://github.com/monkrus/ConvoBots)
 - 📫Send me a message on Telegram @monkrus
 - ⚛️Languages: English, Russian, Spanish, Estonian, Swedish 
 - ⚡Fun fact: Hiked Grand Canyon South Rim to North and Back, 42 miles (68 km) in 27 hours, no sleep
