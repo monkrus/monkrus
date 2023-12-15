@@ -7,7 +7,7 @@
 - 🍫[AliceNY](https://poe.com/AliceNY) or [AliceNYPlus](https://poe.com/AlyceNYPlus) are your your friendly NYC neighbors to chat with.
 - 🏺[NefertariEgypt](https://poe.com/NefertariEgypt) or [NefertariRoyalEgypt](https://poe.com/NefertariRoyalEgypt) Imagine talking to someone living during the rule of Ramses II... 
 - 👁️‍🗨️[More convobots](https://github.com/monkrus/ConvoBots)
-- 📫Request a connversational bot of your choice on ☎️[Telegram](@monkrus)
+- 📫Request a connversational bot of your choice on ☎️Telegram @monkrus.
 - ⚛️Languages: English, Russian, Spanish, Estonian, Swedish 
 - ⚡Fun fact: Hiked Grand Canyon South Rim to North and Back, 42 miles (68 km) in 27 hours, no sleep
 
