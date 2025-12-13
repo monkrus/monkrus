@@ -1,19 +1,7 @@
 ### Hi there 👋
+    
 
-
-<a href="https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral" 
-   target="_blank" 
-   style="
-     display:inline-block;
-     background:#0B64FE;
-     color:white;
-     padding:10px 18px;
-     border-radius:6px;
-     font-weight:600;
-     text-decoration:none;
-     font-family:sans-serif;">
-  Get the Gemini Crypto Rewards Card
-</a>
+[![Gemini](https://img.shields.io/badge/Gemini-Crypto%20Rewards-blueviolet?style=for-the-badge&logo=bitcoin)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
 
 
 - 👕 Founder of[ Dark Alphabet ](https://monkrus-shop.fourthwall.com), a bold and rebellious print-on-demand fashion brand.
