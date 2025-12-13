@@ -1,8 +1,21 @@
 ### Hi there 👋
 
 
+<a href="https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral" 
+   target="_blank" 
+   style="
+     display:inline-block;
+     background:#0B64FE;
+     color:white;
+     padding:10px 18px;
+     border-radius:6px;
+     font-weight:600;
+     text-decoration:none;
+     font-family:sans-serif;">
+  Get the Gemini Crypto Rewards Card
+</a>
 
-<a href='https://ko-fi.com/O4O01N4HR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 - 👕 Founder of[ Dark Alphabet ](https://monkrus-shop.fourthwall.com), a bold and rebellious print-on-demand fashion brand.
 - 💗 Creator of [Ingrid Hansen ](https://www.instagram.com/norskingy/), an AI model and [musician](https://soundcloud.com/ingrid-hansen-206629339)
 - ⚛️ Languages: English, Russian, Spanish, Estonian, Swedish 
