@@ -2,7 +2,7 @@
     
 
 [![Gemini](https://img.shields.io/badge/Gemini-Crypto%20Rewards-blueviolet?style=for-the-badge&logo=bitcoin)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
-
+[![Grass.io](https://img.shields.io/badge/Grass.io-Earn%20Rewards-00D26A?style=for-the-badge&logo=leaf)](https://app.grass.io/register?referralCode=cMxcnTVNRgR-5TN)
 
 
 - 👕 Founder of[ Dark Alphabet ](https://monkrus-shop.fourthwall.com), a bold and rebellious print-on-demand fashion brand.
