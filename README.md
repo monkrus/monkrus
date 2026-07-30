@@ -4,6 +4,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-Crypto%20Rewards-blueviolet?style=for-the-badge&logo=bitcoin)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
 [![Grass.io](https://img.shields.io/badge/Grass.io-Earn%20Rewards-00D26A?style=for-the-badge&logo=leaf)](https://app.grass.io/register?referralCode=cMxcnTVNRgR-5TN)
 
+- 🦄 Owner of [On-chain data collector and live monitor for Uniswap's Continuous Clearing Auctions](https://monkrus.github.io/cca-monitor/)
 - 🏠 Architect of [Listingiq ](https://listingiq.pro/), an AI listing optimization tool that increases Airbnb booking rates by up to 120%
 - 👕 Founder of[ Dark Alphabet ](https://monkrus-shop.fourthwall.com), a bold and rebellious print-on-demand fashion brand.
 - 💗 Creator of [Ingrid Hansen ](https://www.instagram.com/norskingy/), an AI model and [musician](https://soundcloud.com/ingrid-hansen-206629339)
