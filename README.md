@@ -1,8 +1,8 @@
 ### Hi there 👋
     
 
-[![Gemini](https://img.shields.io/badge/Gemini-Crypto%20Rewards-blueviolet?style=for-the-badge&logo=bitcoin)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
-[![Grass.io](https://img.shields.io/badge/Grass.io-Earn%20Rewards-00D26A?style=for-the-badge&logo=leaf)](https://app.grass.io/register?referralCode=cMxcnTVNRgR-5TN)
+[![Gemini Referral](https://img.shields.io/badge/Gemini-Crypto%20Rewards-6F42C1?style=for-the-badge&logo=bitcoin&logoColor=white)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
+[![Grass Referral](https://img.shields.io/badge/Grass-Earn%20Rewards-00D26A?style=for-the-badge&logo=leaf&logoColor=white)](https://app.grass.io/register?referralCode=cMxcnTVNRgR-5TN)
 
 - 🦄 Owner of [on-chain data collector and live monitor for Uniswap's Continuous Clearing Auctions](https://monkrus.github.io/cca-monitor/)
 - 🏠 Architect of [Listingiq ](https://listingiq.pro/), an AI listing optimization tool that increases Airbnb booking rates by up to 120%
