@@ -1,4 +1,4 @@
-### Hi there 👋
+### Click here 👋
     
 
 [![Gemini Referral](https://img.shields.io/badge/Gemini-Crypto%20Rewards-6F42C1?style=for-the-badge&logo=bitcoin&logoColor=white)](https://exchange.gemini.com/register?referral=xa4dlnw3x&type=referral)
